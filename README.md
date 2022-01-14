@@ -1,3 +1,3 @@
 # Cinereview
 
-Repositório utilizado para estudo de PHP 
+Aplicativo utilizado como segunda memória pessoal de crítica de filmes que assisti
